@@ -52,7 +52,7 @@ npm policy, please open an issue there.
 ## What The Web Team's Goals Are
 
 1. **Teach people about javascript development** The website is often people's first introduction to npm. This means we work to help people build a mental model of how npm works and how it fits into their toolchain.
-2. **Help users get a 10,000 foot view of their modules, organization, and teams**. A CLI is great for getting tasks done, a website excells at letting users understand the big picture. The goal of the website is to allow users to easily manage their teams, permissions, and packages.
+2. **Help users get a 10,000 foot view of their modules, organization, and teams**. A CLI is great for getting tasks done, a website excels at letting users understand the big picture. The goal of the website is to allow users to easily manage their teams, permissions, and packages.
 3. **Develop features that help us keep running the registry**.
    This includes both free features and for-pay features — sometimes this will
    involve working with the Enterprise team to develop public registry features
