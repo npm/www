@@ -6,14 +6,11 @@ This is a public issue tracker for the npm website. It will be used
 to announce major changes, forecast what we are working on, and to
 field issues with the website.
 
-The website team reports to **[@stubbornella](https://github.com/stubbornella/)**.
+The web engineering team is:
 
-The team members are:
-
-* **[@rockbot](https://github.com/rockbot/)** (tech lead)
+* **[@rockbot](https://github.com/rockbot/)** (manager)
 * **[@jefflembeck](https://github.com/jefflembeck/)**
 * **[@aredridel](https://github.com/aredridel/)**
-* **[@jerrygabra](https://github.com/jerrygabra/)** (designer)
 
 ## What This Repo Is
 
@@ -47,17 +44,6 @@ npm policy, please open an issue there.
 :no_entry: This repository is **not** the place to discuss issues with the registry. Please reach out to the [registy team](https://github.com/npm/registry/).
 
 :no_entry: This repository is **not** the place to discuss issues with the cli. Please reach out to the [cli team](https://github.com/npm/npm/).
-
-
-## What The Web Team's Goals Are
-
-1. **Teach people about javascript development** The website is often people's first introduction to npm. This means we work to help people build a mental model of how npm works and how it fits into their toolchain.
-2. **Help users get a 10,000 foot view of their modules, organization, and teams**. A CLI is great for getting tasks done, a website excels at letting users understand the big picture. The goal of the website is to allow users to easily manage their teams, permissions, and packages.
-3. **Develop features that help us keep running the registry**.
-   This includes both free features and for-pay features — sometimes this will
-   involve working with the Enterprise team to develop public registry features
-   that add value to the enterprise product, sometimes this will involve building
-   features for private modules users.
 
 ## Participation
 
