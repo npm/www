@@ -6,14 +6,11 @@ This is a public issue tracker for the npm website. It will be used
 to announce major changes, forecast what we are working on, and to
 field issues with the website.
 
-The website team reports to **[@stubbornella](https://github.com/stubbornella/)**.
+The web engineering team is:
 
-The team members are:
-
-* **[@rockbot](https://github.com/rockbot/)** (tech lead)
+* **[@rockbot](https://github.com/rockbot/)** (manager)
 * **[@jefflembeck](https://github.com/jefflembeck/)**
 * **[@aredridel](https://github.com/aredridel/)**
-* **[@jerrygabra](https://github.com/jerrygabra/)** (designer)
 
 ## What This Repo Is
 
