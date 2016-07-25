@@ -14,9 +14,7 @@ The web engineering team is:
 
 ## What This Repo Is
 
-If there are major releases going out, we will write them up here.
-
-We will collect documentation about API endpoints here.
+:white_check_mark: If there are major releases going out, we will write them up here.
 
 :white_check_mark: If you are having issues with the website — it loads
 too slow, or if you can't see a page you know exists, or complete a task
