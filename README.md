@@ -1,9 +1,7 @@
 # the npm website public issue tracker
 
-
-
-This is a public issue tracker for the npm website. It will be used
-to announce major changes, forecast what we are working on, and to
+This is the community space for the npm website, http://www.npmjs.com. It
+will be used to announce major changes, forecast what we are working on, and to
 field issues with the website.
 
 The web engineering team is:
