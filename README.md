@@ -38,7 +38,7 @@ repository](https://github.com/npm/policies). If you wish to make changes to
 npm policy, please open an issue there.
 
 :no_entry: This repository is **not** the place to discuss issues with the registry.
-Please reach out to the [registy team](https://github.com/npm/registry/).
+Please reach out to the [registry team](https://github.com/npm/registry/).
 
 :no_entry: This repository is **not** the place to discuss issues with the cli.
 Please reach out to the [cli team](https://github.com/npm/npm/).
