@@ -9,6 +9,7 @@ The web engineering team is:
 * **[@rockbot](https://github.com/rockbot/)** (manager)
 * **[@jefflembeck](https://github.com/jefflembeck/)**
 * **[@aredridel](https://github.com/aredridel/)**
+* **[@stubbornella](https://github.com/stubbornella)**
 
 ## What This Repo Is
 
