@@ -4,13 +4,6 @@ This is the community space for the npm website, http://www.npmjs.com. It
 will be used to announce major changes, forecast what we are working on, and to
 field issues with the website.
 
-The web engineering team is:
-
-* **[@rockbot](https://github.com/rockbot/)** (manager)
-* **[@jefflembeck](https://github.com/jefflembeck/)**
-* **[@aredridel](https://github.com/aredridel/)**
-* **[@stubbornella](https://github.com/stubbornella)**
-
 ## What This Repo Is
 
 :white_check_mark: If there are major releases going out, we will write them up here.
