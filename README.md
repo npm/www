@@ -1,44 +1,14 @@
-# the npm website public issue tracker
+# We've moved!
 
-This is the community space for the npm website, http://www.npmjs.com. It
-will be used to announce major changes, forecast what we are working on, and to
-field issues with the website.
+Hi! This repository is no longer being used and has been archived for historical purposes.
 
-## What This Repo Is
+* Requests for help, diagnostics and other support questions go in the [support category on npm.community](https://npm.community/c/support).
 
-:white_check_mark: If there are major releases going out, we will write them up here.
+* Reports of bugs go in the [bugs category](https://npm.community/c/bugs).
 
-:white_check_mark: If you are having issues with the website — it loads
-too slow, or if you can't see a page you know exists, or complete a task
-you know is possible — **please open an issue here**. If the topic is
-sensitive, please [contact support](https://www.npmjs.com/support).
+* Informal feature requests and ideas get discussed in the [ideas category](https://npm.community/c/ideas).
 
-:white_check_mark: If you need something from the website — a new feature,
-or improvements in an existing feature — **please open an issue here**. We will
-take the feature under consideration: keep in mind, we often have to pass on
-really good ideas due to time constraints.
+* More complete and fully-formed feature requests should go through the [formal npm RFC process](https://github.com/npm/rfcs).
 
-:warning: This team does not enforce **policy**. If you are interested in the
-policies of npm, please look at the 
-[policies repository](https://github.com/npm/policies).
-
-:no_entry: This repository is **not** the place to bring package disputes.
-[Contact support](https://www.npmjs.com/support).
-
-:no_entry: This repository is **not** the place to debate the outcome of
-package disputes. We rely on our support staff to administer the repository
-according to the policies set forth in the [policies
-repository](https://github.com/npm/policies). If you wish to make changes to
-npm policy, please open an issue there.
-
-:no_entry: This repository is **not** the place to discuss issues with the registry.
-Please reach out to the [registry team](https://github.com/npm/registry/).
-
-:no_entry: This repository is **not** the place to discuss issues with the cli.
-Please reach out to the [cli team](https://github.com/npm/npm/).
-
-## Participation
-
-Participation in this repository (via issues, PRs, or otherwise) is subject
-to the [npm Code of Conduct](https://www.npmjs.com/policies/conduct).
+* For other concerns, such as package disputes or abuse reports, [email support@npmjs.com](mailto:support@npmjs.com).
 
